@@ -13,7 +13,7 @@ log = logging.getLogger(__name__)
 
 CAMINHO_CSV = 'data/PS_20174392719_1491204439457_log.csv'
 CONN_PARAMS = {
-    "host": "localhost", "dbname": "fruad_detection",
+    "host": "localhost", "dbname": "fraud_detection",
     "user": "postgres",  "password": "kali"
 }
 
